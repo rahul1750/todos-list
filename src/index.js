@@ -13,6 +13,3 @@ ReactDOM.render(
     //<><App authorized = {true} /> </>,
 
 );
-
-
-
